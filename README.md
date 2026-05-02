@@ -15,19 +15,23 @@ The robot uses computer vision and intelligent decision-making to detect objects
 🧠 Hybrid AI approach (YOLO + Classical Vision)
 🔁 Learning from Demonstration (LfD)
 💻 Cross-platform integration (Windows + WSL + Ubuntu)
+
 🧠 Technologies Used
 🔍 Computer Vision
 OpenCV
 HSV Color Segmentation
 Contour Detection
+
 🧠 Deep Learning
 YOLOv11 (trained using Roboflow)
 Custom dataset created and annotated
 Used for object detection (cup, charger, object)
+
 🤖 Robotics
 LeRobot Framework
 Teleoperation (Leader-Follower setup)
 Feetech Servo Motors
+
 💻 Software
 Python
 WSL (Windows Subsystem for Linux)
